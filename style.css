@@ -1,0 +1,51 @@
+body {
+    background-color: #ba96e9;
+}
+
+header {
+    background-color: #7B68EE;
+    border-radius: 12px;
+}
+
+a{
+    color:#4B0082;
+   font-family: Times New Roman;
+}
+
+header p  {
+  color:#E6E6FA;  
+  font-family: "Rubik Vinyl", serif;
+  font-weight: 400;
+  font-style: normal;
+ }
+
+.full {
+font-family: Arial Narrow;
+color: aqua;
+}
+.rar{
+    border: 30px;
+    border-color: #7a54ac;
+}
+
+
+h1 {
+    color: #2d085f;
+}
+
+nav {
+    color: #2d085f;
+    padding: 6px;
+    margin: 4px;
+}
+
+nav a {
+    padding: 5px;
+    background-color: #c2c8e7;
+    border-radius: 10px;
+}
+
+.varry {
+    color: green;
+}
+
